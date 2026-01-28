@@ -17,4 +17,4 @@ L-PROBE is a chemometric algorithm designed to optimize variable selection in sp
 ## Installation
 To use L-PROBE, simply download the `lprobe.m` file and add it to your MATLAB path, or clone this repository:
 ```bash
-git clone [https://github.com/](https://github.com/)[YourGitHubUser]/L-PROBE.git
+git clone https://github.com/LEMAQ-Laboratory/L-PROBE.git
